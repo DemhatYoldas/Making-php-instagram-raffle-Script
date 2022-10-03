@@ -1,0 +1,6 @@
+{
+    "require": {
+        "sunra/php-simple-html-dom-parser": "^1.5",
+        "claviska/simpleimage": "^3.3"
+    }
+}
